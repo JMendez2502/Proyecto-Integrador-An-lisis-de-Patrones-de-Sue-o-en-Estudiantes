@@ -1,2 +1,2 @@
-# Proyecto-Integrador-An-lisis-de-Patrones-de-Sue-o-en-Estudiantes
+# Proyecto Integrador Análisi de Patrones de Sueño en-Estudiantes
 Análisis de sueño en Estudiantes / Edad
